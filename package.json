@@ -15,5 +15,6 @@
   "scripts": {
     "update-types": "bower install && gen-typescript-declarations --deleteExisting --outDir .",
     "format": "webmat && npm run update-types"
-  }
+  },
+  "version": "2.1.4"
 }
